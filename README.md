@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Joshi</h1>
+<h3 align="center">A Passionate Fullstack Developer From India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1943&label=Profile%20views&color=0e75b6&style=flat" alt="yash1943" /> </p>
 
 <!--
 **Milanpatel35/Milanpatel35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan Patel</h1>
-<h3 align="center"System Engineer At Samarth Technoverse</h3>
+<h3 align="center">System Engineer At Samarth Technoverse</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milanpatel35&label=Profile%20views&color=0e75b6&style=flat" alt="Milanpatel35" /> </p>
 

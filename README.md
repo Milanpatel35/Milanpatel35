@@ -12,7 +12,7 @@
 - 🔧 System Engineer at [Samarth Technoverse](https://samarthtechnoverse.com)
 - 🌱 Currently exploring **DevOps**, **Cloud Computing**, and **Automation**
 - 💬 Ask me about **Linux**, **Networking**, and **System Administration**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milanpatel35/) | [Email](mailto:milanpatel35@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/milan-patel-a45451bb/) | [Email](mailto:milanpatel3435@gmail.com)
 - ⚡ Fun fact: I love optimizing systems for peak performance!
 
 ---

@@ -55,6 +55,13 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Milanpatel35&theme=redical" alt="Milan's GitHub Activity Graph" />
 </p>
 
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milanpatel35&theme=radical" alt="Milan's GitHub Activity Graph" />
+</p>
+
+
 ---
 
 ### 📫 Connect with Me
